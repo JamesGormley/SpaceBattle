@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: d20b88e16b34ff6448ceefd5063ea9ee
+timeCreated: 1460973266
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body_botto
+    100002: body_top
+    100004: //RootNode
+    100006: energy_tor
+    100008: exhaust
+    100010: exhaust_n1
+    100012: exhaust_no
+    100014: eye
+    100016: head
+    100018: head_left
+    100020: head_right
+    100022: laser brow
+    100024: laser_grey
+    100026: laser_stem
+    100028: shock_ab_c
+    100030: shock_ab_g
+    100032: shock_ab_s
+    100034: under_bell
+    100036: under_side
+    100038: vents
+    100040: walking_cl
+    100042: walking_g1
+    100044: walking_ge
+    100046: wing
+    100048: wing_attac
+    100050: wing_insi1
+    100052: wing_insid
+    100054: wing_outs1
+    100056: wing_outsi
+    100058: wing_rim
+    400000: body_botto
+    400002: body_top
+    400004: //RootNode
+    400006: energy_tor
+    400008: exhaust
+    400010: exhaust_n1
+    400012: exhaust_no
+    400014: eye
+    400016: head
+    400018: head_left
+    400020: head_right
+    400022: laser brow
+    400024: laser_grey
+    400026: laser_stem
+    400028: shock_ab_c
+    400030: shock_ab_g
+    400032: shock_ab_s
+    400034: under_bell
+    400036: under_side
+    400038: vents
+    400040: walking_cl
+    400042: walking_g1
+    400044: walking_ge
+    400046: wing
+    400048: wing_attac
+    400050: wing_insi1
+    400052: wing_insid
+    400054: wing_outs1
+    400056: wing_outsi
+    400058: wing_rim
+    2300000: body_botto
+    2300002: body_top
+    2300004: energy_tor
+    2300006: exhaust
+    2300008: exhaust_n1
+    2300010: exhaust_no
+    2300012: eye
+    2300014: head
+    2300016: head_left
+    2300018: head_right
+    2300020: laser brow
+    2300022: laser_grey
+    2300024: laser_stem
+    2300026: shock_ab_c
+    2300028: shock_ab_g
+    2300030: shock_ab_s
+    2300032: under_bell
+    2300034: under_side
+    2300036: vents
+    2300038: walking_cl
+    2300040: walking_g1
+    2300042: walking_ge
+    2300044: wing
+    2300046: wing_attac
+    2300048: wing_insi1
+    2300050: wing_insid
+    2300052: wing_outs1
+    2300054: wing_outsi
+    2300056: wing_rim
+    3300000: body_botto
+    3300002: body_top
+    3300004: energy_tor
+    3300006: exhaust
+    3300008: exhaust_n1
+    3300010: exhaust_no
+    3300012: eye
+    3300014: head
+    3300016: head_left
+    3300018: head_right
+    3300020: laser brow
+    3300022: laser_grey
+    3300024: laser_stem
+    3300026: shock_ab_c
+    3300028: shock_ab_g
+    3300030: shock_ab_s
+    3300032: under_bell
+    3300034: under_side
+    3300036: vents
+    3300038: walking_cl
+    3300040: walking_g1
+    3300042: walking_ge
+    3300044: wing
+    3300046: wing_attac
+    3300048: wing_insi1
+    3300050: wing_insid
+    3300052: wing_outs1
+    3300054: wing_outsi
+    3300056: wing_rim
+    4300000: body_botto
+    4300002: body_top
+    4300004: energy_tor
+    4300006: exhaust
+    4300008: exhaust_no
+    4300010: exhaust_n1
+    4300012: eye
+    4300014: head
+    4300016: head_left
+    4300018: head_right
+    4300020: laser brow
+    4300022: laser_grey
+    4300024: laser_stem
+    4300026: shock_ab_c
+    4300028: shock_ab_g
+    4300030: shock_ab_s
+    4300032: under_bell
+    4300034: under_side
+    4300036: vents
+    4300038: walking_cl
+    4300040: walking_ge
+    4300042: walking_g1
+    4300044: wing
+    4300046: wing_attac
+    4300048: wing_insid
+    4300050: wing_insi1
+    4300052: wing_outsi
+    4300054: wing_outs1
+    4300056: wing_rim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
